@@ -69,11 +69,12 @@ Instead of just classifying reviews as positive or negative, this system identif
 ---
 
 ## 📁 Project Structure
+```bash
 product-analyzer-system/
 │── app.py              # Streamlit application
 │── requirements.txt    # Dependencies
 │── README.md           # Project documentation
-
+```
 
 ---
 
